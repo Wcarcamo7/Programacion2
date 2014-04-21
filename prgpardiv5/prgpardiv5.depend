@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1397171703 source:c:\users\sony\desktop\prg\prgpardiv5\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
