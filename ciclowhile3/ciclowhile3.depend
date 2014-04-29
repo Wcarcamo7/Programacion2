@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1398294449 source:c:\users\sony\documents\github\programacion2\ciclowhile3\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<limits>
+

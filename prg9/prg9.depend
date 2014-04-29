@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1398293006 source:c:\users\sony\documents\github\programacion2\prg9\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

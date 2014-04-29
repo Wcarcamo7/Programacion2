@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1398374158 source:c:\users\sony\documents\github\programacion2\tarean1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
