@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1398812850 source:c:\users\sony\documents\github\programacion2\tablasfor\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
