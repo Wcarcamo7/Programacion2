@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1400625970 source:c:\users\sony\documents\github\programacion2\registros\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

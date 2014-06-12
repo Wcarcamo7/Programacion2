@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1400190201 source:c:\users\sony\documents\github\programacion2\prueba3_procedfuncion\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+

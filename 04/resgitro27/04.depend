@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1401232221 source:c:\users\sony\documents\github\programacion2\04\resgitro27\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

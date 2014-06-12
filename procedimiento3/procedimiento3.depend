@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1399504344 source:c:\users\sony\documents\github\programacion2\procedimiento3\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
